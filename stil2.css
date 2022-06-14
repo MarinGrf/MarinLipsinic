@@ -1,0 +1,42 @@
+@charset "utf-8";
+/* CSS Document */
+h1{ font-family: "Gill Sans", "Gill Sans MT", "Myriad Pro", "DejaVu Sans Condensed", Helvetica, Arial, "sans-serif";
+	font-size: 40px}
+h2{
+	font-family: "Gill Sans", "Gill Sans MT", "Myriad Pro", "DejaVu Sans Condensed", Helvetica, Arial, "sans-serif";
+	font-size: 30px;
+	color: black;
+	background-color: rgba(6,174,34,0.46);
+	width: 500px;
+	
+}
+p{
+	color:black;
+	font-family: "Gill Sans", "Gill Sans MT", "Myriad Pro", "DejaVu Sans Condensed", Helvetica, Arial, "sans-serif";
+	font-size: 17px;
+	background-color:rgba(6,174,34,0.68);
+	padding: 13px;
+	width: 900px;
+
+}
+	head{
+		image-resolution: snap
+	}
+
+
+.pozadina{
+	background-image: url("slike2/trees-g01e04684e_1280.jpg");}
+.drugapozadina{background-image: url("slike2/rgr.jpg");}
+.trecapozadina{background-image: url("slike2/file75ls97fbzkkw335o7ln-1578251320.jpg");}
+
+a:link {color: wheat;
+background-color: saddlebrown;
+	padding: 10px;
+	line-height: 40px;
+	border: 2px thick #473D04;
+	
+}
+a:hover{
+	background-color: goldenrod}
+span{color: saddlebrown;}
+span2{color: mediumspringgreen}
